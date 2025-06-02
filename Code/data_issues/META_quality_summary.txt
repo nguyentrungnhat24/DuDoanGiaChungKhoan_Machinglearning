@@ -1,0 +1,6 @@
+Báo cáo chất lượng dữ liệu cho META
+Thời gian tạo: 2025-06-01 21:32:41.220407
+
+Các dòng có dữ liệu thiếu:
+Số lượng dòng: 50
+-------------------

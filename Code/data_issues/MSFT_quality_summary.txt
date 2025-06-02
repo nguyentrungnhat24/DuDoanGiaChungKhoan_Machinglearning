@@ -1,0 +1,6 @@
+Báo cáo chất lượng dữ liệu cho MSFT
+Thời gian tạo: 2025-06-01 21:32:04.876368
+
+Các dòng có dữ liệu thiếu:
+Số lượng dòng: 50
+-------------------

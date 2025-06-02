@@ -1,0 +1,6 @@
+Báo cáo chất lượng dữ liệu cho GOOGL
+Thời gian tạo: 2025-06-01 21:32:27.955875
+
+Các dòng có dữ liệu thiếu:
+Số lượng dòng: 50
+-------------------

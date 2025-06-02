@@ -1,0 +1,6 @@
+Báo cáo chất lượng dữ liệu cho AAPL
+Thời gian tạo: 2025-06-01 21:31:52.024825
+
+Các dòng có dữ liệu thiếu:
+Số lượng dòng: 50
+-------------------
